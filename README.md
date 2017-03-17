@@ -1,2 +1,17 @@
-# buip-development-process
-A work-in-progress BUIP to improve the development process of the Bitcoin Unlimited client
+# BUIP ---: Development Process
+
+Proposer: Trevin Hofmann
+
+Authors: Trevin Hofmann, ---
+
+Status: Draft
+
+Proposed on: ---
+
+### Summary
+
+--- TODO
+
+### Rationale
+
+--- TODO
